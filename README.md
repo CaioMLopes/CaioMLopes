@@ -12,6 +12,6 @@
 struct Caio {
   char nickname["Lopez"]
   char often_use: ['.c', '.py', '.sh', '.pcap', '.rs']
-  char hobbies: ["listen to rock", "play RPG's", "swim"]
+  char hobbies: ["bug bounty", "listen to rock", "play RPG's", "swim"]
 }
 ```
