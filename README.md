@@ -8,8 +8,10 @@
 
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/CaioMLopes)[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/caiomeneses_/)[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/MopesCaio)
 
-
-- ⚙️ Frequently study and used: `.sh`, `.py`, `.c`, `.pcap` and `.rs`
-- ⚡️ Love MMORPG's
-
-
+```c
+struct Caio {
+  char nickname["Lopez"]
+  char often_use: ['.c', '.py', '.sh', '.pcap', '.rs']
+  char hobbies: ["listen to rock", "play RPG's", "swim"]
+}
+```
