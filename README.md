@@ -1,16 +1,15 @@
-### Hi there 👋
+### Oopa, bão? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+<blockquote>
 
-<!--
-**CaioMLopes/CaioMLopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><em>Computer Technician at <a href="http://ifmt.edu.br/">Instituto Federal de Mato Grosso</a><img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="30"></br>Aspiring cybersecurity <img src="https://media.giphy.com/media/3d2yl0QuHpHdYtfwVh/giphy.gif" width="45"> 
+</em></p>
+</blockquote>
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/CaioMLopes)[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/caiomeneses_/)[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/MopesCaio)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- ⚙️ Frequently study and used: `.sh`, `.py`, `.c`, `.pcap` and `.rs`
+- ⚡️ Love MMORPG's
+
+
