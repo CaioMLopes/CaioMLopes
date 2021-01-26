@@ -11,7 +11,7 @@
 ```c
 struct Caio {
   char nickname["Lopez"]
-  char often_use: ['.c', '.py', '.sh', '.pcap', '.rs']
+  char often_use: ['.c', '.py', '.js', '.php', '.rs']
   char hobbies: ["bug bounty", "listen to rock", "play RPG's", "swim"]
 }
 ```
