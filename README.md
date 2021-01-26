@@ -10,8 +10,8 @@
 
 ```c
 struct Caio {
-  char nickname["Lopez"]
+  char nickname["Lodamus"]
   char often_use: ['.c', '.py', '.js', '.php', '.rs']
-  char hobbies: ["bug bounty", "listen to rock", "play RPG's", "swim"]
+  char hobbies: ["listen to rock", "play RPG's", "swim"]
 }
 ```
