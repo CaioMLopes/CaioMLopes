@@ -2,7 +2,7 @@
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 <blockquote>
 
-<p><em>Computer Technician at <a href="http://ifmt.edu.br/">Instituto Federal de Mato Grosso</a><img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="30"></br>Aspiring Back-end Development<img src="https://media.giphy.com/media/3d2yl0QuHpHdYtfwVh/giphy.gif" width="45"> 
+<p><em>Computer Technician at <a href="http://ifmt.edu.br/">Instituto Federal de Mato Grosso</a><img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="30"></br>Aspiring Cybersecurity<img src="https://media.giphy.com/media/3d2yl0QuHpHdYtfwVh/giphy.gif" width="45"> 
 </em></p>
 </blockquote>
 
